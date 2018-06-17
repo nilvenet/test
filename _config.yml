@@ -1,2 +1,4 @@
 name: Nil Venet
 markdown: kramdown
+
+theme: jekyll-theme-cayman
